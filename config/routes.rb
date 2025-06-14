@@ -20,4 +20,5 @@ Rails.application.routes.draw do
   
   # Component documentation routes
   get "components/tab", to: "components#tab"
+  get "components/button", to: "components#button"
 end
