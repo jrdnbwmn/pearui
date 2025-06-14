@@ -3,4 +3,4 @@ description:
 globs: 
 alwaysApply: true
 ---
-The context for this project is that I'm building a UI library that I can then use in future Rails projects. It will use Tailwind CSS and Stimulus. I want to be able to easily copy and paste UI components into future projects.
+The context for this project is that I'm building a default UI library that I can then use in future Rails projects. It will use Tailwind CSS and Stimulus and ViewComponents. I want to be able to easily copy and paste UI components into future projects.
